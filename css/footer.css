@@ -1,0 +1,8 @@
+.footer{background:rgba(200,200,200,0.5);
+      color: white;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      text-align: center;
+}

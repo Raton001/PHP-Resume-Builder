@@ -1,0 +1,10 @@
+.content{margin:auto; width:90%; overflow:hidden;}
+ul{margin:0; padding:0;}
+header{background:rgba(200,200,200,0.5); color:white; padding: 10px; border-bottom:coral 3px solid;}
+header li{float:left; display:inline; padding: 0 10px 0 10px;}
+header a{color:white; text-decoration:none;font-size:18px;}
+header #exercise h1{font-size: 40px;margin:0;}
+header #exercise{float:left;}
+header nav{float:right;margin-top:10px;}
+header .lighting{color:tomato; font-weight:bold;}
+header a:hover{color:tomato; font-weight:bold;}
